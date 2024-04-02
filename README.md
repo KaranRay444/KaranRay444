@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Karan rajbhar</h1>
 <h3 align="center">A passionate Computer Science Student</h3>
-<img align="right" alt="Loading...." width"400" src="[https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Frudrabarad%2FGifs&psig=AOvVaw2zf_uKrRY7ZBGDqg2k8E3F&ust=1712123621282000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCNDji-vrooUDFQAAAAAdAAAAABAZ](https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif)">
+<img align="right" alt="Loading...." width"400" src="(https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif)">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=karanray444&label=Profile%20views&color=0e75b6&style=flat" alt="karanray444" /> </p>
 
