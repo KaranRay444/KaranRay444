@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=karanray444&label=Profile%20views&color=0e75b6&style=flat" alt="karanray444" /> </p>
 
-<p align="left"> <a href="https://twitter.com/karanray444" target="blank"><img src="https://img.shields.io/twitter/follow/karanray444?logo=twitter&style=for-the-badge" alt="karanray444" /></a> </p>
+<p align="left"> <a href="https://twitter.com/Karanray476" target="blank"><img src="https://img.shields.io/twitter/follow/karanray444?logo=twitter&style=for-the-badge" alt="karanray444" /></a> </p>
 
 - 👨‍💻 All of my projects are available at [Replace with your projects link when available](https://github.com/karanray444)
 
