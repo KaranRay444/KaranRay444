@@ -8,7 +8,7 @@
 
 - 👨‍💻 All of my projects are available at [Replace with your projects link when available](https://github.com/karanray444)
 
-- 📫 How to reach me **raykaran476@gmail.com**
+- 📫 How to reach me **karanrajbhar.web@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
