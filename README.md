@@ -7,7 +7,7 @@
 <p align="left"> <a href="https://twitter.com/Karanray476" target="blank"><img src="https://img.shields.io/twitter/follow/karanray444?logo=twitter&style=for-the-badge" alt="karanray476" /></a> </p>
 
 - 👨‍💻 All of my projects are available at 
-<a href="https://www.karanrajbhar.in"
+karanrajbhar.in
 
 - 📫 How to reach me **karanrajbhar.web@gmail.com**
 
